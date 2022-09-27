@@ -1,2 +1,5 @@
 .button{background-color: red; border-radius: 30px; color: white; 
-margin-bottom: 20PX; margin-left: 200PX;}
+margin-bottom: 20PX; margin-left: 0PX; font-size: 35px;}
+.hr{font-size: 19px;}
+.body{ background-color: purple; margin-left: 20px; margin-right: 30px;}
+.img{min-width: 320px; min-height: 320px; margin-right: -400px;}
